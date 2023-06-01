@@ -57,7 +57,7 @@ These commands will install nedded packages from python directory.
 
 
 # .exe
-includes also .exe file in standalone BRANCH.
+includes also .exe file in [standalone BRANCH.](https://github.com/potkolainen/text-to-midi/tree/onefile-pyinstall-(.exe-standalone)) or [1.0 Release](https://github.com/potkolainen/text-to-midi/releases/tag/v1.0exe)
 MAIN branch has only Open source python code.
 This does not need Python or packages installed. (download .exe from STANDALONE Branch) 
 
