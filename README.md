@@ -1,4 +1,4 @@
-# text-to-midi-converter 1.0 build
+# TEXT to MIDI converter 1.0 build
    # Main features
 `this python script writes .MID file from inputted text in SMF0 format. can be used with external Ai such as Chat-GPT`
 
