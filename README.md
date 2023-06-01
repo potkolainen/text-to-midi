@@ -20,15 +20,15 @@ EMPTY one without description is where you insert text to turn into .MID file su
 ![MIDIconvUI](https://github.com/potkolainen/text-to-midi/assets/135180930/82ee6cf9-b70d-4349-83c2-469cd11a648f)
 
 
-# errors
+# Errors
 Log lists events for you, such as .MID save status or errors. 
 Most common error is when all text fields are not filled. 
 It will be shown as:
 
-    # Error occurred while saving MIDI: invalid literal for int() with base 10: ''
+    Error occurred while saving MIDI: invalid literal for int() with base 10: ''
 This means track name, time signature or BPM was not inserted
 
-# reddit
+# Reddit
 
 https://www.reddit.com/r/musicproduction/comments/13xlfwd/text_to_midi_file/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
 If you run in issues. You can comment them there, or here on github. Also you can give feedback and suggestions on reddit.
