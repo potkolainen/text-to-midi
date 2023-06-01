@@ -61,5 +61,3 @@ includes also .exe file in standalone BRANCH.
 MAIN branch has only Open source python code.
 This does not need Python or packages installed. (download .exe from STANDALONE Branch) 
 
-# Code
-Here i will soon add some parts of the code that will present their functions
