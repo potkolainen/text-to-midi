@@ -1,26 +1,40 @@
-# text-to-midi-converter
-# Main features
+# text-to-midi-converter 1.0 build
+   # Main features
 `this python script writes .MID file from inputted text in SMF0 format. can be used with external Ai such as Chat-GPT`
 
-it has 4 text windows to input text and function detailed next to them. very easy to use
+# Text input windows
 
-![midi to text](https://github.com/potkolainen/text-to-midi/assets/135180930/4bf9aa96-6e3f-48dd-8c8e-a383a452ff7f)
+it has 4 text windows to input text and function detailed next to them. very easy to use.
+listed from up to down all windows.
+| Rank |  Function     |
+|-----:|---------------|
+|     1| Track name    |
+|     2| Time siganture|
+|     3| BPM           |
+|     4| Text to .MID  |
+|     5| Example text  |
+|     6| Log           |
+EMPTY one without description is where you insert text to turn into .MID file such as shown in window under it.
 
-Lowest text window works as a log. It gives you information if file is saved succesfully or if you encountered with an error. If you cannot see the message. Use mouse wheel. 
+![MIDIconvUI](https://github.com/potkolainen/text-to-midi/assets/135180930/82ee6cf9-b70d-4349-83c2-469cd11a648f)
+
+Lowest text window works as a log. It gives you information if file is saved succesfully or if you encountered with an error. 
 
 # errors
-Lowest text field is log. 
-It lists events for you such as .mid save status or errors. 
+Log lists events for you, such as .mid save status or errors. 
 Most common error is when all text fields are not filled. 
+such as:
 
+    # Error occurred while saving MIDI: invalid literal for int() with base 10: ''
+This means track name, time signature or BPM was not inserted
 
 # reddit
 
 https://www.reddit.com/r/musicproduction/comments/13xlfwd/text_to_midi_file/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
-If you run in issues. You can comment them there, or here on github. 
+If you run in issues. You can comment them there, or here on github. Also you can give feedback and suggestions on reddit.
 
-# Needed Packages for the script
-python script uses packages that are needed for running the script or .exe so far
+# Needed Packages for the python script
+python script uses packages that are needed for running the script
 | Rank | Packages  |
 |-----:|-----------|
 |     1| Python3.11|
@@ -43,7 +57,9 @@ These commands will install nedded packages from python directory.
 
 
 # .exe
-includes also .exe file (this for now needs python and packages installed, i will fix this later)
+includes also .exe file in standalone BRANCH.
+MAIN branch has only Open source python code.
+This does not need Python or packages installed. (download .exe from STANDALONE Branch) 
 
 # Code
 Here i will soon add some parts of the code that will present their functions
