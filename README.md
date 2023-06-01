@@ -1,6 +1,6 @@
 # text-to-midi-converter
 # Main features
-`this python script writes .MID file from inputted text. can be used with external Ai such as Chat-GPT`
+`this python script writes .MID file from inputted text in SMF0 format. can be used with external Ai such as Chat-GPT`
 
 it has 4 text windows to input text and function detailed next to them. very easy to use
 
