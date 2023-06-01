@@ -14,16 +14,16 @@ listed from up to down all windows.
 |     4| Text to .MID  |
 |     5| Example text  |
 |     6| Log           |
+
 EMPTY one without description is where you insert text to turn into .MID file such as shown in window under it.
 
 ![MIDIconvUI](https://github.com/potkolainen/text-to-midi/assets/135180930/82ee6cf9-b70d-4349-83c2-469cd11a648f)
 
-Lowest text window works as a log. It gives you information if file is saved succesfully or if you encountered with an error. 
 
 # errors
-Log lists events for you, such as .mid save status or errors. 
+Log lists events for you, such as .MID save status or errors. 
 Most common error is when all text fields are not filled. 
-such as:
+It will be shown as:
 
     # Error occurred while saving MIDI: invalid literal for int() with base 10: ''
 This means track name, time signature or BPM was not inserted
