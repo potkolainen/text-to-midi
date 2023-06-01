@@ -11,6 +11,7 @@ python script uses  !!!OPEN SOURCE!!! packages that are needed for running the s
 |     1| Python3.11|
 |     2| mido      |
 |     3| pyperclip |
+
 Rest are invluded in standard python library.
 For me it helped when i installed Python from microsoft store. My cmd terminal didnt find the one i installed first from python.org
 
