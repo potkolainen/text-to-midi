@@ -1,7 +1,9 @@
 # text-to-midi-converter
 # Main features
-this python script writes .MID file from inputted text. can be used with external Ai such as Chat-GPT
+`this python script writes .MID file from inputted text. can be used with external Ai such as Chat-GPT`
+
 it has 4 text windows to input text and function detailed next to them. very easy to use
+
 ![midi to text](https://github.com/potkolainen/text-to-midi/assets/135180930/4bf9aa96-6e3f-48dd-8c8e-a383a452ff7f)
 
 # Needed Packages for the script
