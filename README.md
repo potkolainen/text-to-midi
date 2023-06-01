@@ -7,26 +7,35 @@ it has 4 text windows to input text and function detailed next to them. very eas
 ![midi to text](https://github.com/potkolainen/text-to-midi/assets/135180930/4bf9aa96-6e3f-48dd-8c8e-a383a452ff7f)
 
 # reddit
+
 https://www.reddit.com/r/synthesizers/comments/13x3lan/text_to_midi_file/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+If you run in issues. You can comment them there. 
 
 # Needed Packages for the script
-python script uses  !!!OPEN SOURCE!!! packages that are needed for running the script or .exe so far
+python script uses packages that are needed for running the script or .exe so far
 | Rank | Packages  |
 |-----:|-----------|
 |     1| Python3.11|
 |     2| mido      |
 |     3| pyperclip |
 
-Rest are invluded in standard python library.
+Rest are included in standard python library.
 For me it helped when i installed Python from microsoft store. My cmd terminal didnt find the one i installed first from python.org
 
 once python 3.11 is installed open your windows command terminal
-type:
-pip install mido
-pip install pyperclip
+type command:
+
+    # pip install mido
+    
+And
+
+    # pip install pyperclip
+    
+These commands will install nedded packages from python directory. 
+
 
 # .exe
-includes also .exe file (this for now needs pyhon and packages installed, i will fix this later)
+includes also .exe file (this for now needs python and packages installed, i will fix this later)
 
 # Code
 Here under you will see the whole code used in this project
