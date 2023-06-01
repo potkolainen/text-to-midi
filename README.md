@@ -6,6 +6,9 @@ it has 4 text windows to input text and function detailed next to them. very eas
 
 ![midi to text](https://github.com/potkolainen/text-to-midi/assets/135180930/4bf9aa96-6e3f-48dd-8c8e-a383a452ff7f)
 
+# reddit
+https://www.reddit.com/r/synthesizers/comments/13x3lan/text_to_midi_file/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
 # Needed Packages for the script
 python script uses  !!!OPEN SOURCE!!! packages that are needed for running the script or .exe so far
 | Rank | Packages  |
