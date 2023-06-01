@@ -16,8 +16,8 @@ Most common error is when all text fields are not filled.
 
 # reddit
 
-https://www.reddit.com/r/synthesizers/comments/13x3lan/text_to_midi_file/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
-If you run in issues. You can comment them there. 
+https://www.reddit.com/r/musicproduction/comments/13xlfwd/text_to_midi_file/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+If you run in issues. You can comment them there, or here on github. 
 
 # Needed Packages for the script
 python script uses packages that are needed for running the script or .exe so far
