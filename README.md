@@ -33,11 +33,11 @@ For me it helped when i installed Python from microsoft store. My cmd terminal d
 once python 3.11 is installed open your windows command terminal
 type command:
 
-    # pip install mido
+    pip install mido
     
 And
 
-    # pip install pyperclip
+    pip install pyperclip
     
 These commands will install nedded packages from python directory. 
 
